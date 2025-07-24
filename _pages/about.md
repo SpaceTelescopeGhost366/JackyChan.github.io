@@ -10,6 +10,6 @@ Hey there, my name is Siuwang (Jacky) Chan, a second-year master student majored
 
 I am currently seeking opportunities to pursue a PhD’s degree starting from Fall 2025 , and I would like to collaborate with a principal investigator (PI) who is interested and specilizaed in JWST NIRSpec (IFU) data, which is vital and indispensable for my further research projects about physical processes and chemical evolution of galaxies at high redshift in the followings years.
 
-Check out out my CV right here : [Jacky Chan's Curriculumn Vitae](https://github.com/SpaceTelescopeGhost366/JackyChan.github.io/blob/master/assets/CV.pdf)
+Check out out my CV right here : [Jacky Chan's Curriculumn Vitae](https://spacetelescopeghost366.github.io/JackyChan.github.io/assets/CV.pdf)
 
 
