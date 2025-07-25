@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 venue: ""
 permalink: https://conferences.koushare.com/gsj2025
-date: 2025-07-25
+date: 2025-05-26
 location: "8 Wanjiali Middle Rd, Yu Hua Qu, Changsha, Hunan, China, 410007"
 ---
 
