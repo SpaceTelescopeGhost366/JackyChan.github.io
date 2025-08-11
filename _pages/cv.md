@@ -11,35 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
+* M.S. in University of Science and Technology of China (USTC) , Hefei , People’s Republic of China,  2023-2026 (expected)
+* B.S. in Jilin University , Changchun , People’s Republic of China , 2019-2023 
+  
+Research Interest
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* \textbf{Galaxy Evolution, Galaxy Structure, High Redshift Galaxies, Chemical Abundances}
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research Projects & Experience
+======
+* Fall 2025: Origins of SMGs via Metallicity Gradient
+  * Status: In Prep.
+  * Methods: Resolved SED fitting
+    
+* Spring 2025: Disclosing Submillimeter Galaxy Formation: Mergers or Secular Evolution?
+  * Status: Under review (Independent Research Project)
+  * Purpose: Investigate formation mechanisms of Sub-millimeter Galaxies (SMGs)
+    using morphological diagnostic tools
+  * Conclusion: Secular evolution takes precedence over mergers , in which merger
+    acts only as a booster for star formation activities , suggesting that filamentary
+    gas inflow plays a key role in bulge formation.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Autumn 2024: Exploration of the Resolved SED fitting technique
+  
+* Summer 2024: Does LSTM excel in prediction of violatility of the stock market?(Class project)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Tech-related
+  * Python
+  * Linux Command Line   
+* Languages
+  * Chinese (Mandarin + Cantonese): Native
+  * English: Second language, fluent
+    * ✓ IELTS: Listening-7.5, Reading-8.5, Writing-7.0, Speaking-6.5, Overall band Score-7.5
+    * ✓ CET4: 590, CET6: 589
 
 Publications
 ======
@@ -53,12 +59,3 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
