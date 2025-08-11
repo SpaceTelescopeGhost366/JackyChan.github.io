@@ -16,7 +16,7 @@ Education
   
 Research Interest
 ======
-* \textbf{Galaxy Evolution, Galaxy Structure, High Redshift Galaxies, Chemical Abundances}
+* Galaxy Evolution, Galaxy Structure, High Redshift Galaxies, Chemical Abundances
 
 Research Projects & Experience
 ======
