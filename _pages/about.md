@@ -12,9 +12,9 @@ I am currently seeking opportunities to pursue a PhD’s degree starting from Fa
 
 Check out out my CV right here : [Jacky Chan's Curriculumn Vitae](https://spacetelescopeghost366.github.io/JackyChan.github.io/assets/CV.pdf)📑
 
-Click here for my [poster](https://drive.google.com/file/d/19BZ_VCdIWPjh-oxq6UUcJMWYxsEMx7fd/view?pli=1)🌇 and [powerpoint slide](https://docs.google.com/presentation/d/1YRDaLXU8OiqE7aTFlDpmDmjYKKftDmk2/edit?pli=1&slide=id.p1#slide=id.p1)👨🏻‍💻 at the 27th Chinese Astronomical Society Guoshoujing Symposium on Galaxies and Cosmology this year(2025).
+Click here for my [poster 🌇](https://drive.google.com/file/d/19BZ_VCdIWPjh-oxq6UUcJMWYxsEMx7fd/view?pli=1) and [powerpoint slide 👨🏻‍💻](https://docs.google.com/presentation/d/1YRDaLXU8OiqE7aTFlDpmDmjYKKftDmk2/edit?pli=1&slide=id.p1#slide=id.p1) at the 27th Chinese Astronomical Society Guoshoujing Symposium on Galaxies and Cosmology this year(2025).
 
 Wanna deep deeper into my academic performance on stage ?
 
-Check out [my presentation video](https://drive.google.com/file/d/1RQ8IDnRAtqW1jwDUSX0Jnm35V4GI7rK_/view)🗣.                            
+Check out [my presentation video 🗣](https://drive.google.com/file/d/1RQ8IDnRAtqW1jwDUSX0Jnm35V4GI7rK_/view)🗣.                            
 (Refresh the page if the video is not loading).
