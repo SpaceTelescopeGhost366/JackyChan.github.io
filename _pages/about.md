@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hey there, my name is Siu-Wang (Jacky) Chan , formerly Xiaohong Chen , a third-year master student majored in astrophysics studying at the University of the Science and Technology of China(USTC). My research interests include probing the formation pathway for the sub-millimeter galaxies (SMGs) at high redshift , the correlation between obscured active galatic nuclei (AGN) and SMGs etc .
 
-I am currently seeking opportunities to pursue a PhD’s degree starting from Fall 2026 , and I would like to collaborate with a principal investigator (PI) who is interested and specialized in the JWST NIRSpec (IFU) data, which is vital and indispensable for my further research projects about physical processes and chemical evolution of galaxies at high redshift in the followings years.
+I am currently seeking opportunities to pursue a PhD’s degree starting from Fall 2026 , and I would like to collaborate with a principal investigator (PI) who is interested and specialized in the JWST NIRSpec (IFU) data and ALMA spectroscopic data , which is vital and indispensable for my further research projects about physical processes and chemical evolution of galaxies at high redshift in the followings years.
 
 Check out out my CV right here : [Jacky Chan's Curriculumn Vitae 📑](https://spacetelescopeghost366.github.io/JackyChan.github.io/assets/My_current_CV2.pdf)
 
