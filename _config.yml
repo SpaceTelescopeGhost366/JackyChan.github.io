@@ -10,9 +10,9 @@
 locale                   : "en-US"
 site_theme               : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "contrast"
-title                    : "Siuwang (Jacky) Chan"
+title                    : "Jacky Siu-Wang Chan"
 title_separator          : "-"
-name                     : &name "Siuwang (Jacky) Chan"
+name                     : &name "Jacky Siu-Wang Chan"
 description              : &description "personal description"
 url                      : https://spacetelescopeghost366.github.io/JackyChan.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ repository               : "https://spacetelescopeghost366.github.io/JackyChan.g
 author:
   # Biographic information
   avatar           : "../images/profile.png"
-  name             : "Siuwang (Jacky) Chan"
+  name             : "Jacky Siu-Wang Chan"
   pronouns         : # example: "she/her"  
   bio              : "An enthusiast of Astrophysics🔭🌀 and JAZZ 🎹🎼 !!"
   location         : "Hong Kong SAR 🇭🇰 "
