@@ -10,7 +10,7 @@ Hey there, my name is Jacky Siu-Wang Chan (陳瀟弘) , formerly Xiaohong Chen ,
 
 I am currently seeking opportunities to pursue a PhD’s degree starting from Fall 2026 , and I would like to collaborate with a principal investigator (PI) who is interested and specialized in the JWST NIRSpec (IFU) data and ALMA spectroscopic data , which is vital and indispensable for my further research projects about physical processes and chemical evolution of galaxies at high redshift in the followings years.
 
-Check out out my CV right here : [Jacky Chan's Curriculumn Vitae 📑](https://spacetelescopeghost366.github.io/JackyChan.github.io/assets/My_current_CV2.pdf)
+Check out out my CV right here : [Jacky Chan's Curriculumn Vitae 📑](https://spacetelescopeghost366.github.io/JackyChan.github.io/assets/My_current_CV (2).pdf)
 
 Click here for my [poster 🌇](https://drive.google.com/file/d/19BZ_VCdIWPjh-oxq6UUcJMWYxsEMx7fd/view?pli=1) and [powerpoint slide 👨🏻‍💻](https://docs.google.com/presentation/d/1YRDaLXU8OiqE7aTFlDpmDmjYKKftDmk2/edit?pli=1&slide=id.p1#slide=id.p1) at the 27th Chinese Astronomical Society Guoshoujing Symposium on Galaxies and Cosmology this year(2025).
 
