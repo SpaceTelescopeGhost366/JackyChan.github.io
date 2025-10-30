@@ -35,6 +35,11 @@ Research Projects & Experience
 * Autumn 2024: Exploration of the Resolved SED fitting technique
   
 * Summer 2024: Does LSTM excel in prediction of violatility of the stock market?(Class project)
+
+Awards and Scholarships
+======
+* China National Scholarship (for top 0.2% students nationwide) - 2025
+* Honorable Mention — The Mathematical Contest in Modeling(MCM) - 2022
   
 Skills
 ======
