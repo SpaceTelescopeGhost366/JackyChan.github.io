@@ -12,7 +12,7 @@ I am currently seeking opportunities to pursue a PhD’s degree starting from Fa
 
 I got some unresolved question for someone to answer: What's the role of stellar bar at high-z galaxy evolution ? Boosting or quenching the star formation activity at the center ? How can we understand correlations between the AGN and the SMGs at high-z ?
 
-Check out out my CV right here : [Jacky Chan's Curriculumn Vitae 📑](https://spacetelescopeghost366.github.io/JackyChan.github.io/assets/My_current_CV_1024.pdf)
+Check out out my CV right here : [Jacky Chan's Curriculumn Vitae 📑](https://spacetelescopeghost366.github.io/JackyChan.github.io/assets/My_current_CV_1121.pdf)
 
 Click here for my [poster 🌇](https://drive.google.com/file/d/19BZ_VCdIWPjh-oxq6UUcJMWYxsEMx7fd/view?pli=1) and [powerpoint slide 👨🏻‍💻](https://docs.google.com/presentation/d/1YRDaLXU8OiqE7aTFlDpmDmjYKKftDmk2/edit?pli=1&slide=id.p1#slide=id.p1) at the 27th Chinese Astronomical Society Guoshoujing Symposium on Galaxies and Cosmology this year(2025).
 
