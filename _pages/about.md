@@ -16,8 +16,7 @@ I have several unresolved questions I would like to explore: What role do stella
 Check out my CV here:  
 [Jacky Chan's Curriculum Vitae 📑](https://spacetelescopeghost366.github.io/JackyChan.github.io/assets/My_current_CV_1123.pdf)
 
-You can also see my  [poster 🌇](https://drive.google.com/file/d/19BZ_VCdIWPjh-oxq6UUcJMWYxsEMx7fd/view?pli=1)  
-and  [powerpoint slides 👨🏻‍💻](https://docs.google.com/presentation/d/1YRDaLXU8OiqE7aTFlDpmDmjYKKftDmk2/edit?pli=1&slide=id.p1#slide=id.p1)  
+You can also see my  [poster 🌇](https://drive.google.com/file/d/19BZ_VCdIWPjh-oxq6UUcJMWYxsEMx7fd/view?pli=1)   and  [powerpoint slides 👨🏻‍💻](https://docs.google.com/presentation/d/1YRDaLXU8OiqE7aTFlDpmDmjYKKftDmk2/edit?pli=1&slide=id.p1#slide=id.p1)  
 from the 27th Chinese Astronomical Society Guoshoujing Symposium on Galaxies and Cosmology (2025).
 
 Want a deeper look at my presentation?  
