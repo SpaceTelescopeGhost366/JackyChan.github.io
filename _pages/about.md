@@ -20,3 +20,4 @@ Click here for my [poster 🌇](https://drive.google.com/file/d/19BZ_VCdIWPjh-ox
 Wanna deep deeper into my academic performance on stage ? <br>
 Check out [my presentation video 🗣](https://drive.google.com/file/d/1RQ8IDnRAtqW1jwDUSX0Jnm35V4GI7rK_/view).                            
 (Refresh the page if the video is not loading).
+<br/><img src="../assets/guoshoujing_prsentation.png" width="50%">
