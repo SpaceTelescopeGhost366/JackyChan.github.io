@@ -16,15 +16,12 @@ I have several unresolved questions I would like to explore: What role do stella
 Check out my CV here:  
 [Jacky Chan's Curriculum Vitae 📑](https://spacetelescopeghost366.github.io/JackyChan.github.io/assets/My_current_CV_1123.pdf)
 
-You can also see my  
-[poster 🌇](https://drive.google.com/file/d/19BZ_VCdIWPjh-oxq6UUcJMWYxsEMx7fd/view?pli=1)  
-and  
-[powerpoint slides 👨🏻‍💻](https://docs.google.com/presentation/d/1YRDaLXU8OiqE7aTFlDpmDmjYKKftDmk2/edit?pli=1&slide=id.p1#slide=id.p1)  
+You can also see my  [poster 🌇](https://drive.google.com/file/d/19BZ_VCdIWPjh-oxq6UUcJMWYxsEMx7fd/view?pli=1)  
+and  [powerpoint slides 👨🏻‍💻](https://docs.google.com/presentation/d/1YRDaLXU8OiqE7aTFlDpmDmjYKKftDmk2/edit?pli=1&slide=id.p1#slide=id.p1)  
 from the 27th Chinese Astronomical Society Guoshoujing Symposium on Galaxies and Cosmology (2025).
 
 Want a deeper look at my presentation?  
-Check out the video here:  
-[Presentation Video 🗣](https://drive.google.com/file/d/1RQ8IDnRAtqW1jwDUSX0Jnm35V4GI7rK_/view)  
+Check out the video here:  [Presentation Video 🗣](https://drive.google.com/file/d/1RQ8IDnRAtqW1jwDUSX0Jnm35V4GI7rK_/view)  
 (Refresh the page if the video does not load.)
 
-<br/><img src="../assets/guoshoujing_prsentation.png" width="50%">
+<img src="/assets/guoshoujing_prsentation.png" width="50%">
