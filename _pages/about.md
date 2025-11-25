@@ -23,4 +23,4 @@ Want a deeper look at my presentation?
 Check out the video here:  [Presentation Video 🗣](https://drive.google.com/file/d/1RQ8IDnRAtqW1jwDUSX0Jnm35V4GI7rK_/view)  
 (Refresh the page if the video does not load.)
 
-<img src="/assets/guoshoujing_prsentation.png" width="30%">
+<!-- <img src="/assets/guoshoujing_prsentation.png" width="30%"> -->
