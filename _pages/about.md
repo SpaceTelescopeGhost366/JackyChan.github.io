@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hey there, my name is Jacky Siu-Wang Chan (陳瀟弘), a third-year master's student majoring in astrophysics at the University of Science and Technology of China (USTC). My research interests include probing the formation pathways of submillimeter galaxies (SMGs) at high redshift and exploring the connection between obscured active galactic nuclei (AGN) and SMGs.
+Hey there, my name is Jacky Chan Siu-Wang (陳瀟弘), a third-year master's student majoring in astrophysics at the University of Science and Technology of China (USTC). My research interests include probing the formation pathways of submillimeter galaxies (SMGs) at high redshift and exploring the connection between obscured active galactic nuclei (AGN) and SMGs.
 
 I am currently seeking opportunities to pursue a PhD starting in Fall 2026. I hope to work with a principal investigator (PI) who is interested in high-z galaxy formation and evolution, chemical enrichment, and the analysis of JWST NIRSpec (IFU) and ALMA spectroscopic data—both of which will play crucial roles in my future research.
 
