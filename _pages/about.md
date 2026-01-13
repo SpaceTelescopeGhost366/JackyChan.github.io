@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hey there, my name is Jacky Chan Siu-Wang (陳瀟弘), a third-year master's student majoring in astrophysics at the University of Science and Technology of China (USTC). My research interests include probing the formation pathways of submillimeter galaxies (SMGs) at high redshift and exploring the connection between obscured active galactic nuclei (AGN) and SMGs.
+Hey there, my name is Jacky Chan Siu-Wang (陳瀟弘), currently a third-year master's student majoring in astrophysics at the University of Science and Technology of China (USTC). My research interests include probing the formation pathways of submillimeter galaxies (SMGs) at high redshift and exploring the connection between obscured active galactic nuclei (AGN) and SMGs.
 
-I am currently seeking opportunities to pursue a PhD starting in Fall 2026. I hope to work with a principal investigator (PI) who is interested in high-z galaxy formation and evolution, chemical enrichment, and the analysis of JWST NIRSpec (IFU) and ALMA spectroscopic data—both of which will play crucial roles in my future research.
+I am currently seeking opportunities to pursue a PhD starting in Fall 2026. I am opened and happy to work with a principal investigator (PI) who is interested in anything about high-z galaxy formation and evolution, AGN, chemical enrichment, first-gen galaxies,  and epoch of reionization. The synergy of JWST NIRSpec (IFU) and ALMA spectroscopic data—both of which will play crucial roles in my future research.
 
-I got several unresolved questions I would like to explore: What role do stellar bars play in high-z galaxy evolution? How do we understand the correlations between AGN activity and SMGs at high redshift?
+I got several unresolved questions I would like to explore: When did the first galactic bar form ? What role do galactic bars play in high-z galaxy evolution? How do we understand the correlations between AGN activity and SMGs at high redshift?
 
 Check out my CV here:  
 [Jacky Chan's Curriculum Vitae 📑](https://spacetelescopeghost366.github.io/JackyChan.github.io/assets/My_current_CV_1123.pdf)
